@@ -1,0 +1,25 @@
+{
+  "name": "social-info",
+  "version": "1.0.0",
+  "description": "Log all social media information of Sahil Fruitwala.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilFruitwala/social-info.git"
+  },
+  "keywords": [
+    "social-media",
+    "Twitter",
+    "Linkedin",
+    "Instagram"
+  ],
+  "author": "Sahil Fruitwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilFruitwala/social-info/issues"
+  },
+  "homepage": "https://github.com/SahilFruitwala/social-info#readme"
+}
