@@ -7,7 +7,9 @@ const logData = (option) => {
     ? console.log(`Twitter: ${twitter}`)
     : option === 2
     ? console.log(`LinkeIn: ${linkedin}`)
-    : console.log(`Instagram: ${instagram}`);
+    : option === 3
+    ? console.log(`GitHub: ${github}`)
+    : console.log(`Enter Valid Input!`);
 };
 
 module.exports = logData;
